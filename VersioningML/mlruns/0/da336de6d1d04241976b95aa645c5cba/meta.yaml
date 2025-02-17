@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/da336de6d1d04241976b95aa645c5cba/artifacts
+deleted_time: 1739785499768
+end_time: 1739701620462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: da336de6d1d04241976b95aa645c5cba
+run_name: gifted-smelt-951
+run_uuid: da336de6d1d04241976b95aa645c5cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739701613298
+status: 3
+tags: []
+user_id: leostuchchi

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/19dc679816a7458c8a6e7fe8bf7e4e99/artifacts
+deleted_time: 1739785499767
+end_time: 1739701560007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 19dc679816a7458c8a6e7fe8bf7e4e99
+run_name: amusing-shrike-411
+run_uuid: 19dc679816a7458c8a6e7fe8bf7e4e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739701552975
+status: 3
+tags: []
+user_id: leostuchchi

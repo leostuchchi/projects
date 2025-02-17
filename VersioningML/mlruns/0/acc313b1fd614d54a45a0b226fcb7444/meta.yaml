@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/acc313b1fd614d54a45a0b226fcb7444/artifacts
+deleted_time: 1739787781622
+end_time: 1739787106395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: acc313b1fd614d54a45a0b226fcb7444
+run_name: valuable-mare-588
+run_uuid: acc313b1fd614d54a45a0b226fcb7444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787087724
+status: 3
+tags: []
+user_id: leostuchchi

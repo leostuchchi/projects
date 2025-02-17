@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f1e7558a460f4a64a66b0896ecdb6fbc/artifacts
+deleted_time: 1739786492632
+end_time: 1739786032236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f1e7558a460f4a64a66b0896ecdb6fbc
+run_name: rare-goat-696
+run_uuid: f1e7558a460f4a64a66b0896ecdb6fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739786014357
+status: 3
+tags: []
+user_id: leostuchchi

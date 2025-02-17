@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f62471e3e9054597bdca90ff00f68252/artifacts
+deleted_time: 1739787781616
+end_time: 1739787199506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f62471e3e9054597bdca90ff00f68252
+run_name: victorious-lynx-634
+run_uuid: f62471e3e9054597bdca90ff00f68252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787181309
+status: 3
+tags: []
+user_id: leostuchchi

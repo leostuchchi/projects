@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ee14bcc87af742a294b7f0e29a47a965/artifacts
+deleted_time: 1739785499764
+end_time: 1739701879631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee14bcc87af742a294b7f0e29a47a965
+run_name: worried-yak-780
+run_uuid: ee14bcc87af742a294b7f0e29a47a965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739701872956
+status: 3
+tags: []
+user_id: leostuchchi

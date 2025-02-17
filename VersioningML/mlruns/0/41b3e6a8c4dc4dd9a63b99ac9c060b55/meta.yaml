@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/41b3e6a8c4dc4dd9a63b99ac9c060b55/artifacts
+deleted_time: 1739786492623
+end_time: 1739785903000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 41b3e6a8c4dc4dd9a63b99ac9c060b55
+run_name: calm-goat-405
+run_uuid: 41b3e6a8c4dc4dd9a63b99ac9c060b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739785884795
+status: 3
+tags: []
+user_id: leostuchchi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f9778ff98e8a457981c86e0475765e5d/artifacts
+end_time: 1739788060380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9778ff98e8a457981c86e0475765e5d
+run_name: luminous-sloth-348
+run_uuid: f9778ff98e8a457981c86e0475765e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788043366
+status: 3
+tags: []
+user_id: leostuchchi

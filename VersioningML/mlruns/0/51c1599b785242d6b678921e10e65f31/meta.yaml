@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/51c1599b785242d6b678921e10e65f31/artifacts
+deleted_time: 1739787781614
+end_time: 1739787591350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51c1599b785242d6b678921e10e65f31
+run_name: thoughtful-swan-757
+run_uuid: 51c1599b785242d6b678921e10e65f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787574437
+status: 3
+tags: []
+user_id: leostuchchi

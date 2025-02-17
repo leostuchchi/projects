@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/25fde066a63840af92392a6cf9d07e09/artifacts
+deleted_time: 1739786492624
+end_time: 1739785961061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 25fde066a63840af92392a6cf9d07e09
+run_name: persistent-moth-251
+run_uuid: 25fde066a63840af92392a6cf9d07e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739785942889
+status: 3
+tags: []
+user_id: leostuchchi

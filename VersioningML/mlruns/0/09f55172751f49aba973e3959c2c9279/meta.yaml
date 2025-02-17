@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/09f55172751f49aba973e3959c2c9279/artifacts
+deleted_time: 1739785499771
+end_time: 1739701512947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 09f55172751f49aba973e3959c2c9279
+run_name: spiffy-yak-633
+run_uuid: 09f55172751f49aba973e3959c2c9279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739701499518
+status: 3
+tags: []
+user_id: leostuchchi

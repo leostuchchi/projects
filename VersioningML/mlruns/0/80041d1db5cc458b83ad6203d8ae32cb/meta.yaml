@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/80041d1db5cc458b83ad6203d8ae32cb/artifacts
+deleted_time: 1739787781626
+end_time: 1739786918953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 80041d1db5cc458b83ad6203d8ae32cb
+run_name: carefree-swan-903
+run_uuid: 80041d1db5cc458b83ad6203d8ae32cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739786901405
+status: 3
+tags: []
+user_id: leostuchchi

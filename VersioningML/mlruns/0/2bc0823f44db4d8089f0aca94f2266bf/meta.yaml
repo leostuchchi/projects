@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2bc0823f44db4d8089f0aca94f2266bf/artifacts
+deleted_time: 1739787781632
+end_time: 1739785844684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2bc0823f44db4d8089f0aca94f2266bf
+run_name: worried-crab-119
+run_uuid: 2bc0823f44db4d8089f0aca94f2266bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739785837371
+status: 3
+tags: []
+user_id: leostuchchi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/56036a2b96814044bd70c9aa1fcea6cd/artifacts
+end_time: 1739788116426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56036a2b96814044bd70c9aa1fcea6cd
+run_name: casual-snake-226
+run_uuid: 56036a2b96814044bd70c9aa1fcea6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788099375
+status: 3
+tags: []
+user_id: leostuchchi

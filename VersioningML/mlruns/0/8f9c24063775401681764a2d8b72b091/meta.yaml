@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8f9c24063775401681764a2d8b72b091/artifacts
+deleted_time: 1739787781631
+end_time: 1739786596861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f9c24063775401681764a2d8b72b091
+run_name: righteous-conch-719
+run_uuid: 8f9c24063775401681764a2d8b72b091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739786578749
+status: 3
+tags: []
+user_id: leostuchchi
