@@ -1,6 +1,6 @@
 Проект:
 
-Автоматизированный pipeline проведения ABC_analysis магазина Wildberries.
+Pipeline проведения ABC_analysis магазина Wildberries.
 
 ABC-анализ товаров по маржинальной прибыли, выявление ключевых групп (A, B, C).
 
