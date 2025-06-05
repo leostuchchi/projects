@@ -6,6 +6,6 @@
 
 Создание и проведение серии эксперементов в Mlflow.
 
-Автоматизированный pipeline проведения ABC_analysis магазина Wildberries.
+Pipeline проведения ABC_analysis магазина Wildberries.
 
 Спасибо за внимание.
